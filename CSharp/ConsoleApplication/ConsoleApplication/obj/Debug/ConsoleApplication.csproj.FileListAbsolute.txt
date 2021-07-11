@@ -1,0 +1,6 @@
+C:\Users\seung\Desktop\test\CSharp\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\seung\Desktop\test\CSharp\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\seung\Desktop\test\CSharp\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\seung\Desktop\test\CSharp\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\seung\Desktop\test\CSharp\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\seung\Desktop\test\CSharp\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
